@@ -6,7 +6,7 @@ baseURL = "https://briteming.github.io/iib/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 5
 summaryLength = 0
 rssLimit = 20
 
