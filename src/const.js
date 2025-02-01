@@ -19,13 +19,7 @@ export const site_description = `
 
 
 const links = genLinks(`
-261days|https://www.261day.com
-蔓舞寻樱的博客|https://emiria.io
-Sonico’s Home|http://blog.supvesonico.moe
-Ciyuan'ai|https://ciyuanai.net
-Hundred Blog|http://txiner.top
 uikoo9的个人网站|http://uikoo9.com
-Yanhao's Blog|http://www.yanhao.site
 ilanyu's Blog|http://blog.lanyus.com
 LWL的自由天空|https://blog.lwl12.com
 河的第三条岸|http://arondight.me
