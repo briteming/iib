@@ -1,7 +1,7 @@
 import { genLinks } from './util'
 
-export const owner = 'lingmm';
-export const repo = 'IssueBlog';
+export const owner = 'briteming';
+export const repo = 'iib';
 export const site_name = '泠的博客';
 export const site_description = `
 この光が空を越えて羽ばたいてゆく
