@@ -18,7 +18,7 @@ export const User = {
 
 export const Post = {
     async get(number) {
-        const data = await(await Vue.http.get(`https://api.github.com/repos/${owner}/${repo}/issues/${number}`)).json();
+        const data = await(await Vue.http.get(`https://api.github.com/repos/briteming/iib/issues/${number}`)).json();
         return {
             title: data.title,
             date: data.created_at,
@@ -34,7 +34,7 @@ export const Post = {
         };
     },
     async all() {
-        const data = await(await Vue.http.get(`https://api.github.com/repos/${owner}/${repo}/issues?creator=${owner}&state=all`)).json();
+        const data = await(await Vue.http.get(`https://api.github.com/repos/briteming/iib/issues?creator=briteming&state=all`)).json();
         return data
             .filter(single => single.state !== 'closed')
             .map(single => {
@@ -58,9 +58,9 @@ export const Post = {
 
 export const Comment = {
     async all(id) {
-        return (await Vue.http.get(`https://api.github.com/repos/${owner}/${repo}/issues/${id}/comments`)).json();
+        return (await Vue.http.get(`https://api.github.com/repos/briteming/iib/issues/${id}/comments`)).json();
     },
     async create(id, body) {
-        return (await Vue.http.post(`https://api.github.com/repos/${owner}/${repo}/issues/${id}/comments`, { body })).json();
+        return (await Vue.http.post(`https://api.github.com/repos/briteming/iib/issues/${id}/comments`, { body })).json();
     }
 };
