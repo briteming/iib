@@ -26,13 +26,8 @@ ilanyu's Blog|http://blog.lanyus.com
 東雲研究所|http://blog.zhouys.ac.cn
 Just4fun|https://coolrc.me
 御坂網路司令塔|https://blog.misaka4e21.science/
-Zhustec's Blog|http://blog.zhustec.me/
 石樱灯笼的博客|http://blog.catscarlet.com/
 千里冰封|http://ice1000.org/
-Zelda's Blog|http://itsay.tech/
-So Faaaar|https://faaaar.com/
-星之所在|http://jimmy66.com/
-Konge.Blog()|http://blog.konge.pw/
 https://blog.lwl12.com/
 `);
 
