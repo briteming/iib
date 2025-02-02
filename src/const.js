@@ -21,9 +21,7 @@ export const site_description = `
 const links = genLinks(`
 uikoo9的个人网站|http://uikoo9.com
 ilanyu's Blog|http://blog.lanyus.com
-LWL的自由天空|https://blog.lwl12.com
 河的第三条岸|http://arondight.me
-雨宫千鹤|https://bismarck.moe
 夜雨初霁的小窝|https://www.moew.xyz
 ouzz的博客|http://ouzz.me
 卷猫's blog|http://anneke.cn
