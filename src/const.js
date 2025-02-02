@@ -23,8 +23,6 @@ uikoo9的个人网站|http://uikoo9.com
 ilanyu's Blog|http://blog.lanyus.com
 河的第三条岸|http://arondight.me
 夜雨初霁的小窝|https://www.moew.xyz
-ouzz的博客|http://ouzz.me
-卷猫's blog|http://anneke.cn
 東雲研究所|http://blog.zhouys.ac.cn
 Just4fun|https://coolrc.me
 御坂網路司令塔|https://blog.misaka4e21.science/
@@ -35,6 +33,7 @@ Zelda's Blog|http://itsay.tech/
 So Faaaar|https://faaaar.com/
 星之所在|http://jimmy66.com/
 Konge.Blog()|http://blog.konge.pw/
+https://blog.lwl12.com/
 `);
 
 const about = `
